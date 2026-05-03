@@ -7,8 +7,8 @@
 #include <BlynkSimpleEsp32.h>
 
 // WiFi credentials
-char ssid[] = "Galaxy A54 5G 4BD8";
-char pass[] = "Abhra143@";
+char ssid[] = "YOUR_WIFI_NAME";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 // Pin Configuration
 #define IRSensor 32

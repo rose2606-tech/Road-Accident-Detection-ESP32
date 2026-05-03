@@ -36,8 +36,9 @@ This project is an IoT-based road accident detection and monitoring system devel
 4. Alerts are sent via Blynk app
 5. Buzzer and LED activate for warning
 
-## ⚠️ Note
+## Note
 Sensitive information like WiFi credentials and Blynk Auth Token have been removed for security reasons.
 
 ## 👩‍💻 Author
-Rose Kumari
+Rose Agrawal
+
